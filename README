@@ -14,8 +14,8 @@ A HTML user's manual will be generated and installed in /usr/share/doc/fixmath.
 
 The GNU Lesser General Public License (LGPL) refers to the
 General Public License (GPL), which is the only reason the file
-COPYING is included with RAPP (in addition to the file
-COPYING.LESSER); no part of RAPP is covered by the GPL alone.
+COPYING is included with fixmath (in addition to the file
+COPYING.LESSER); no part of fixmath is covered by the GPL alone.
 
 For further reading, the Fixmath project is hosted at
 <http://savannah.nongnu.org/projects/fixmath/>.
